@@ -1,0 +1,15 @@
+# Generated build and Vivado cache files
+**/build/
+**/.settings/
+**/.slang/
+**/.Xil/
+**/vivado/*.cache/
+**/vivado/*.hw/
+**/vivado/*.ip_user_files/
+**/vivado/*.runs/
+**/vivado/*.sim/
+**/vivado/*.gen/
+**/vivado/*.jou
+**/vivado/*.log
+*.vvp
+*.vcd

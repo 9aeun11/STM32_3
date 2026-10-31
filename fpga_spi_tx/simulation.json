@@ -1,0 +1,5 @@
+{
+  "sources": ["src/uart.v", "src/uart_hex_print.v", "src/spi_master_tx.v", "src/spi_tx_top.v"],
+  "testbench": "sim/tb_spi_tx.v",
+  "simulation_top": "tb_spi_tx"
+}
